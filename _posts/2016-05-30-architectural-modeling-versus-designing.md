@@ -5,23 +5,23 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T08:11:35.230Z'
-dateModified: '2016-05-30T08:11:34.791Z'
-title: ''
+datePublished: '2016-05-30T08:12:49.864Z'
+dateModified: '2016-05-30T08:12:23.315Z'
+title: Architectural modelling versus designing?
 author: []
+sourcePath: _posts/2016-05-30-architectural-modeling-versus-designing.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-30-architectural-modeling-versus-designing.md
 url: architectural-modeling-versus-designing/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7f71902-3f92-4dec-b673-97ff1a30821e.jpg)
 
-### Architectural modeling versus designing?
+### Architectural modelling versus designing?
 
-### In this article I want to explain why I believe that Enterprise Architects should spend less time on modeling and more on graphic design or visual communication. So, let's compare these two and see what there is to gain for you as an Enterprise Architect.
+### In this article I want to explain why I believe that Enterprise Architects should spend less time on modelling and more on graphic design or visual communication. So, let's compare these two and see what there is to gain for you as an Enterprise Architect.
 
 #### Modeling
 
