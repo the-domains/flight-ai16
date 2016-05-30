@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T08:11:12.169Z'
-dateModified: '2016-05-30T08:11:02.270Z'
-title: Architectural modeling versus designing?
+datePublished: '2016-05-30T08:11:35.230Z'
+dateModified: '2016-05-30T08:11:34.791Z'
+title: ''
 author: []
 authors: []
 publisher: null
